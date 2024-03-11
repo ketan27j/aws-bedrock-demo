@@ -1,0 +1,1 @@
+This is quick AWS Bedrock demo for LLAMA2 and Stable diffusion model
